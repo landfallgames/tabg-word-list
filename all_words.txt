@@ -512,3 +512,6 @@ name
 description
 line
 jurassic
+computerys
+ultimate
+cuts
