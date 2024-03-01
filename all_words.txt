@@ -555,41 +555,6 @@ saltiques
 saltique
 apple
 sauce
-<b></size></color><size=10></b>default
-<b></size></color><size=10></b>competitive
-<b></size></color><size=10></b>liberating
-<b></size></color><size=10></b>melee
-<b></size></color><size=10></b>pistols
-<b></size></color><size=10></b>shotguns
-<b></size></color><size=10></b>snipers
-<b></size></color><size=10></b>heavy
-<b></size></color><size=10></b>mundane
-<b></size></color><size=10></b>one
-<b></size></color><size=10></b>cowboys
-<b></size></color><size=10></b>futuristic
-<b></size></color><size=10></b>time
-<b></size></color><size=10></b>fiesta
-<b></size></color><size=10></b>scavenge
-factory</b></size>
-city</b></size>
-finland</b></size>
-western</b></size>
-industry</b></size>
-chaos</b></size>
-castle</b></size>
-work</b></size>
-west</b></size>
-east</b></size>
-impact</b></size>
-64</b></size>
-wall</b></size>
-power</b></size>
-<color=#eecc00><size=40><b>scavenge
-<color=#f70><size=40><b>8
-<color=#0ff><size=40><b>competitive
-<color=#F33><size=40><b>deathmatch
-<color=#0af><size=40><b>gun game
-<color=#f7f><size=40><b>1
 loot
 loots
 spawn
@@ -601,12 +566,11 @@ superagentalex's
 bonanza
 super
 mega
-<color=#eecc00><size=40><b>superagentalex's
 Jopes
 Jopes's
 0ptx
 Optx's
 stream
 tubg
-<color=#ff0000><size=40><b>Titan Gamemode
+Titan Gamemode
 gamemode
