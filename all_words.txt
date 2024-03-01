@@ -573,3 +573,6 @@ battleroyale
 gungame
 brawl
 deception
+war
+battle
+world
