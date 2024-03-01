@@ -588,3 +588,14 @@ power</b></size>
 <color=#F33><size=40><b>deathmatch
 <color=#0af><size=40><b>gun game
 <color=#f7f><size=40><b>1
+loot
+loots
+spawn
+spawns
+increase
+increased
+superagentalex
+'s
+bonanza
+super
+mega
