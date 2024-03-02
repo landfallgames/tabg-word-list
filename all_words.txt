@@ -581,6 +581,9 @@ battleroyale
 gungame
 brawl
 deception
+war
+battle
+world
 tag
 test
 testing
