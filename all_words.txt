@@ -573,3 +573,7 @@ battleroyale
 gungame
 brawl
 deception
+tag
+test
+testing
+typical
