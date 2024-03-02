@@ -566,11 +566,18 @@ superagentalex's
 bonanza
 super
 mega
-Jopes
-Jopes's
+jopes
+jopes's
 0ptx
 Optx's
 stream
 tubg
-Titan Gamemode
+titan gamemode
 gamemode
+solo
+duo
+squad
+battleroyale
+gungame
+brawl
+deception
