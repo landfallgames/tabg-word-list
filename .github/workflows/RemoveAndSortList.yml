@@ -12,8 +12,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Remove Duplicates
         run: |
-          tr ' ' '\n' < all_words.txt | sort | uniq > all_words.txt
-          cat all_words.txt
+          tr ' ' '\n' < all_words.txt | sort | uniq | tee all_words.txt 
       - name: Commit Sorted List
         run: |
           git config --global user.name 'Computerys Github Action'
