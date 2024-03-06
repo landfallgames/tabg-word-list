@@ -1,0 +1,22 @@
+name: Remove Duplicate Words And Sort List
+
+on:
+  push:
+    paths:
+      - 'all_words.txt'  # Trigger on changes to the all_words file
+
+jobs:
+  remove_duplicates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Remove Duplicates
+        run: |
+          tr ' ' '\n' < all_words.txt | sort | uniq > all_words.txt
+          cat all_words.txt
+      - name: Commit Sorted List
+        run: |
+          git config --global user.name 'Computerys Github Action'
+          git config --global user.email 'C0mputery@users.noreply.github.co'
+          git commit -am "Remove duplicates and sorted"
+          git push
