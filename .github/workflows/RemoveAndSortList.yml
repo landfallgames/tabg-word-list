@@ -17,5 +17,5 @@ jobs:
         run: |
           git config --global user.name 'Computerys Github Action'
           git config --global user.email 'C0mputery@users.noreply.github.co'
-          git commit -am "Remove duplicates and sorted"
+          git commit -am "Removed duplicates and sorted word list."
           git push
