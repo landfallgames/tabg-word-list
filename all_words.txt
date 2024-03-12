@@ -646,3 +646,16 @@ twisted
 pvp
 pve
 24/7
+auto
+automatic
+automatically
+separate
+separated
+separation
+split
+players
+team
+teams
+chance
+chances
+given
