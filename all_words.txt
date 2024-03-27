@@ -570,6 +570,10 @@ jopes
 jopes's
 0ptx
 Optx's
+penial
+penial's
+.45
+acp
 stream
 tubg
 titan gamemode
@@ -753,3 +757,10 @@ half
 british
 knife
 knives
+home
+oasis
+abyss
+archive
+magic
+gaming
+dev
