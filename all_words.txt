@@ -753,3 +753,5 @@ half
 british
 knife
 knives
+.45
+acp
