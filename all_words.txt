@@ -753,3 +753,4 @@ half
 british
 knife
 knives
+sigma
