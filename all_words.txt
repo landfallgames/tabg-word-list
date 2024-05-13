@@ -764,3 +764,4 @@ archive
 magic
 gaming
 dev
+sigma
