@@ -765,3 +765,5 @@ magic
 gaming
 dev
 sigma
+/class
+discord.gg/landfall
