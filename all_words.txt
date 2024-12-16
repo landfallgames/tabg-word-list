@@ -791,3 +791,7 @@ redbigz
 redbigz's
 red's
 instance
+tabgvr
+vr
+vr-supported
+vr-only
