@@ -796,3 +796,5 @@ vr
 vr-supported
 vr-only
 sunside
+PDXLAN
+TOURNAMENT
