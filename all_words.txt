@@ -800,3 +800,6 @@ PDXLAN
 TOURNAMENT
 RapidKebab's
 /votestart
+Dual's
+DualRotorHelicopter's
+Random
